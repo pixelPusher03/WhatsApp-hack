@@ -1,4 +1,4 @@
-# whatsapp-hacking
+# whatsapp-hack
 Hack whatsapp web via a cloned website
 
 # Requirements
@@ -19,10 +19,10 @@ DO NOT USE ON REAL VICTIMS FOR ANY REASON. CRIMINAL LAW WILL APPLY.
 > pkg install python3
 ```
 ```
-> git clone https://github.com/thedeveloper03/Wa-hack
+> git clone https://github.com/pixelPusher03/Whatsapp-hack
 ```
 ```
-> cd Wa-hack
+> cd Whatsapp-hack
 ```
 
 _install the requirements
